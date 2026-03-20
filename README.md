@@ -1,4 +1,4 @@
-S210 x86 Assembly Quick Setup
+# Intel-syntax x86-64 Assembly Quick Setup
 
 ## Environment
 
