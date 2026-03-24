@@ -22,6 +22,7 @@ loop_start:
 
 add_positive:
 	add r8, r9
+	inc r10
 	cmp r8, 15
 	jge done
 	
